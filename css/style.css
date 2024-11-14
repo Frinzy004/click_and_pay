@@ -272,7 +272,7 @@ span.visually-hidden {
 
 .carousel-item h3{
     text-align: center;
-    color: #1a1818;
+    color: #fff;
     text-decoration: none;
     text-transform: uppercase;
     border-radius: 5px;
@@ -281,7 +281,7 @@ span.visually-hidden {
 }
 .carousel-item p{
     text-align: center;
-    color: #000;
+    color: #fff;
     text-decoration: none;
     border-radius: 5px;
     padding: 7px 8px;
