@@ -543,6 +543,13 @@ padding: 10px;
   color: #000
 }
 
+.hm-footer-copyright {
+  background-color: #000; 
+  padding: 20px 0;
+  border-top: 1px solid #000; 
+  text-align: center; 
+}
+
 .hm-footer-copyright p {
   margin: 0;
   font-size: 14px; 
